@@ -1,5 +1,5 @@
 # Programa para calcular a média de notas de um aluno
-
+print("--- Calculadora de Média do Aluno ---")
 # Entrada das notas
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))
